@@ -17,5 +17,5 @@ Exemplos de Algoritmos Utilizando Python
 
 Você pode Utiliza o  [Visualgo](https://visualgo.net/en) para ter uma visualização das implementações
 
-> Versão do Python Utilizada : 3
+> Versão do Python Utilizada : 3.6.4
 
