@@ -2,7 +2,7 @@
 
 [![Foo](https://cdn1.iconfinder.com/data/icons/picons-social/57/github-64.png )](https://github.com/dfirmino)                                                       [![Python](https://cdn4.iconfinder.com/data/icons/scripting-and-programming-languages/512/Python_logo-64.png )](https://www.python.org/)
 
-"Exemplos de Algoritmos utilizando python"
+Exemplos de Algoritmos Utilizando Python
 
   - Armazenamento
   - Busca
