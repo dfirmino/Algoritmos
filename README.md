@@ -1,6 +1,6 @@
 # Algoritmos
 
-[![Foo](https://cdn1.iconfinder.com/data/icons/picons-social/57/github-64.png )](https://github.com/dfirmino)                                                       ![python](https://cdn4.iconfinder.com/data/icons/scripting-and-programming-languages/512/Python_logo-64.png)
+[![Foo](https://cdn1.iconfinder.com/data/icons/picons-social/57/github-64.png )](https://github.com/dfirmino)                                                       ![Python](https://cdn4.iconfinder.com/data/icons/scripting-and-programming-languages/512/Python_logo-64.png )
 
 "Exemplos de Algoritmos utilizando python"
 
